@@ -1,0 +1,1 @@
+This folder contains native Android applications written in Kotlin
