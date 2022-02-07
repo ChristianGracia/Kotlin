@@ -1,3 +1,3 @@
 # Kotlin
 
-This repository contains applications written in Kotlin
+This repository contains web and mobile applications written in Kotlin
